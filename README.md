@@ -1,4 +1,4 @@
-# CS305PC: OBJECT ORIENTED PROGRAMMING THROUGH JAVA
+# ☕ CS305PC: OBJECT ORIENTED PROGRAMMING THROUGH JAVA
 
 ## Course Objectives
 - To Understand the basic object-oriented programming concepts and apply them in problem solving.
